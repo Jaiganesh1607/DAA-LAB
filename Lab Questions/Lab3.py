@@ -252,7 +252,7 @@ st.set_page_config(page_title="Naive String Search Visualizer", page_icon="🔎"
 init_state()
 st.markdown(CSS, unsafe_allow_html=True)
 
-st.title("Naive String Search Visualizer (Streamlit)")
+st.title("Naive String Search Visualizer")
 
 # Inputs
 with st.container():
